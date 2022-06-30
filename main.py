@@ -11,8 +11,8 @@ pygame.display.set_caption("Asteroid Miner")
 # bullet_sound = pygame.mixer.Sound('')
 # asteroid_destroy_sound = pygame.mixer.Sound('')
 # player_collision_sound = pygame.mixer.Sound('')
-pygame.mixer.music.load('slow-2021-08-30_-_Boss_Time_-_www.FesliyanStudios.com.wav')
-pygame.mixer.music.play(-1)
+# pygame.mixer.music.load('slow-2021-08-30_-_Boss_Time_-_www.FesliyanStudios.com.wav')
+# pygame.mixer.music.play(-1)
 font = pygame.font.SysFont("arial", 50)
 
 
